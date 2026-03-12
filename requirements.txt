@@ -3,3 +3,5 @@ numpy
 scikit-learn
 streamlit
 altair==4.2.2
+matplotlib
+reportlab
